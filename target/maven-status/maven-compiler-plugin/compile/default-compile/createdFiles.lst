@@ -1,0 +1,5 @@
+com\atguigu\scwsts\common\utils\AppDateUtils.class
+com\atguigu\scwsts\common\bean\AppResponse.class
+com\atguigu\scwsts\common\utils\ScwAppUtils.class
+com\atguigu\scwsts\common\vo\BaseVo.class
+com\atguigu\scwsts\common\consts\ProjectAppConsts.class
