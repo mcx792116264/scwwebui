@@ -10,6 +10,7 @@ public class BaseVo {
 
 	public static void main(String[] args) {
 		System.out.println("开始上班");
-	}
 
+		System.out.println("下班");
+	}
 }
